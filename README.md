@@ -1,4 +1,4 @@
-# ray-tracing-in-one-weekend
+# Ray Tracing In One Weekend
 It's my implementation of [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) project.
 
 # Usage
